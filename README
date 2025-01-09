@@ -1,0 +1,13 @@
+This is project only contains the backend and the connection with the DB
+************************************************************************
+                THINGS LEARNED IN THIS PROJECT
+************************************************************************
+
+-> How to signup in Mongo DB and create a cluster
+-> How to set user ID and Password
+-> How to allow access of the DB from any network
+-> How to download MongoDB Atlas and connect it with the online MongoDB cluster we created
+-> How to do CRUD operation in the DB manually
+-> How to connect the DB from express using the mongoose library
+-> How to define the schema and how we can perform CRUD operation using the Models
+-> How to perform above CRUD operation using the API like app.get('/signup', function(req,res){})
